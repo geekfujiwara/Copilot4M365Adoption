@@ -189,14 +189,103 @@ Copilot 活用アプリを共有するには、まずアプリを選択して共
 
 ![image](https://github.com/user-attachments/assets/4d5bf525-bdbb-4c17-84f0-c1f18785b4b2)
 
-セキュリティグループに対して共有することもできます。
+> [!NOTE]
+> セキュリティグループに対して共有することもできます。
+> ![image](https://github.com/user-attachments/assets/d6aa6496-65a1-4df5-9fbd-1d9bff3db331)
 
-![image](https://github.com/user-attachments/assets/d6aa6496-65a1-4df5-9fbd-1d9bff3db331)
+Dataqverseテーブルを選択して、ユーザーへのリソースの共有と同時にセキュリティロールを付与します。
+
+![image](https://github.com/user-attachments/assets/52a8740d-a45b-4615-a4b2-0ab2516b0135)
+
+CAP Basic User を探して選択して、共有します。
+
+![image](https://github.com/user-attachments/assets/e3e63318-d990-4056-bc8a-3a47bb179b5c)
+
+### データの追加
+
+ソリューションをインポートしただけではデータは追加されていません。
+
+![image](https://github.com/user-attachments/assets/b5239267-89a4-4f67-b653-ed84cf1c6558)
 
 
+モデル駆動型アプリを開いて、データを入力していきます。
 
+> [!NOTE]
+> データ登録を行うユーザーは、Dataverse セキュリティロールとして、システム管理者またはSystem customizer で行うようにしてください。
 
+モデル駆動型アプリはこのようにして開きます。
 
+![image](https://github.com/user-attachments/assets/62c60ffc-a315-400e-9f07-88090b478d2c)
 
+データの登録は以下の順番で行います。
+
+1. バッジ
+2. ポイント種類
+3. イベントカテゴリ
+4. 学習リソースカテゴリ
+5. プロンプトカテゴリ
+6. イベント
+7. 学習リソース
+8. プロンプトテンプレート
+
+以下よりサンプルデータをダウンロードすることができます。
+
+> [!NOTE]
+> ポイント種類について、`プロンプトテンプレート登録`というタイトルのポイント種類は必ず登録するようにしてください。
+> アプリ内部で予約しています。
+> ![image](https://github.com/user-attachments/assets/45911283-4025-449d-8f11-932e0c40ba9b)
+
+[バッジ.xlsx](https://github.com/user-attachments/files/16371990/default.xlsx)
+[ポイント種類.xlsx](https://github.com/user-attachments/files/16371991/default.xlsx)
+[イベントカテゴリ.xlsx](https://github.com/user-attachments/files/16371992/default.xlsx)
+[学習リソースカテゴリ.xlsx](https://github.com/user-attachments/files/16371993/default.xlsx)
+[プロンプトカテゴリ.xlsx](https://github.com/user-attachments/files/16371994/default.xlsx)
+[イベント.xlsx](https://github.com/user-attachments/files/16372107/default.xlsx)
+[学習リソース.xlsx](https://github.com/user-attachments/files/16372108/default.xlsx)
+[プロンプトテンプレート.xlsx](https://github.com/user-attachments/files/16372110/default.xlsx)
+
+ダウンロードが完了しましたら、一つずつ上から順番にデータを登録していきます。
+
+バッジを例にして説明します。バッジ以外のデータは同じ作業のため同様にして実行してください。
+
+![image](https://github.com/user-attachments/assets/58ee985c-1508-49f3-ba30-038e39d79c8c)
+
+Excel Online で開くとします。
+
+![image](https://github.com/user-attachments/assets/f086d811-2894-4962-bec0-81180032070a)
+
+赤枠の範囲をコピーして、同じ領域にペーストします。
+
+![image](https://github.com/user-attachments/assets/0aeac83f-354b-4e22-854c-e2b40d4340de)
+
+ペーストしたら保存します。
+
+![image](https://github.com/user-attachments/assets/040dff58-9d2a-43a0-9542-d6d0b35d38df)
+
+進行状況を追跡します。
+
+> [!NOTE]
+> 進行状況の追跡は任意です。バックグラウンドで処理されますので、必要に応じて確認してください。
+
+![image](https://github.com/user-attachments/assets/c733a863-120c-426c-aebd-78300230b08b)
+
+すべて成功していたらOKです。
+
+![image](https://github.com/user-attachments/assets/4e8a309b-7996-4bc8-b7e7-0745d025cfc8)
+
+最新の情報に更新します。
+
+![image](https://github.com/user-attachments/assets/afd64613-4118-4359-a70c-58f0ff3837cc)
+
+バッジが登録されたことがわかります。
+
+![image](https://github.com/user-attachments/assets/f7fb502d-27e5-43c1-88aa-c3e4c9bbf114)
+
+同じようにして、他のテーブルについてもExcel Online より登録していきます。
+
+> [!NOTE]
+> データはあくまでサンプルなので、必要に応じて変更するようにしてください。
+
+以上
 
 
