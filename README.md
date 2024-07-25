@@ -14,7 +14,6 @@ CAP はPower Platform をベースとしています。
 
 ![image](https://github.com/user-attachments/assets/5e1996c7-7f7e-4ace-85a2-6fc411b5ac86)
 
-
 ## アーキテクチャ
 
 CAP は2種類のPower Apps で作成されています。
@@ -28,9 +27,11 @@ CAP は2種類のPower Apps で作成されています。
 
 ![image](https://github.com/user-attachments/assets/ad133dc6-d393-468e-8108-554be5bf71e7)
 
-### コンポーネント別の説明
+# コンポーネント別の説明
 
 ## CoEチーム向けアプリ
+
+https://github.com/user-attachments/assets/16fab13c-f386-4c75-8f01-7124d3186cb4
 
 ### 可視化
 
@@ -76,6 +77,8 @@ CAP は2種類のPower Apps で作成されています。
 ![image](https://github.com/user-attachments/assets/75849c93-3de0-4b70-9c46-e5ff56572b3f)
 
 ## 利用者向けのアプリ
+
+https://github.com/user-attachments/assets/d78dc3fc-a16f-44c3-9cc1-281129e3c0cb
 
 ### イベント
 
