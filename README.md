@@ -14,6 +14,9 @@ CAP はPower Platform をベースとしています。
 
 ![image](https://github.com/user-attachments/assets/5e1996c7-7f7e-4ace-85a2-6fc411b5ac86)
 
+> [!Note]
+> 動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/geekfujiwara/status/1816394470998626456) までメンションしてご報告ください！！
+
 ## アーキテクチャ
 
 CAP は2種類のPower Apps で作成されています。
