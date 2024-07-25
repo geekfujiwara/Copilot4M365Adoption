@@ -238,14 +238,14 @@ CAP Basic User を探して選択して、共有します。
 > アプリ内部で予約しています。
 > ![image](https://github.com/user-attachments/assets/45911283-4025-449d-8f11-932e0c40ba9b)
 
-[バッジ.xlsx](https://github.com/user-attachments/files/16371990/default.xlsx)
-[ポイント種類.xlsx](https://github.com/user-attachments/files/16371991/default.xlsx)
-[イベントカテゴリ.xlsx](https://github.com/user-attachments/files/16371992/default.xlsx)
-[学習リソースカテゴリ.xlsx](https://github.com/user-attachments/files/16371993/default.xlsx)
-[プロンプトカテゴリ.xlsx](https://github.com/user-attachments/files/16371994/default.xlsx)
-[イベント.xlsx](https://github.com/user-attachments/files/16372107/default.xlsx)
-[学習リソース.xlsx](https://github.com/user-attachments/files/16372108/default.xlsx)
-[プロンプトテンプレート.xlsx](https://github.com/user-attachments/files/16372110/default.xlsx)
+1. [バッジ.xlsx](https://github.com/user-attachments/files/16371990/default.xlsx)
+2. [ポイント種類.xlsx](https://github.com/user-attachments/files/16371991/default.xlsx)
+3. [イベントカテゴリ.xlsx](https://github.com/user-attachments/files/16371992/default.xlsx)
+4. [学習リソースカテゴリ.xlsx](https://github.com/user-attachments/files/16371993/default.xlsx)
+5. [プロンプトカテゴリ.xlsx](https://github.com/user-attachments/files/16371994/default.xlsx)
+6. [イベント.xlsx](https://github.com/user-attachments/files/16372107/default.xlsx)
+7. [学習リソース.xlsx](https://github.com/user-attachments/files/16372108/default.xlsx)
+8. [プロンプトテンプレート.xlsx](https://github.com/user-attachments/files/16372110/default.xlsx)
 
 ダウンロードが完了しましたら、一つずつ上から順番にデータを登録していきます。
 
