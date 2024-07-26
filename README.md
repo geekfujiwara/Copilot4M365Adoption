@@ -314,25 +314,24 @@ Excel Online で開くとします。
 
     Copyright (c) Geek Fujiwara.
     
-    MIT License
+   
+    MITライセンス
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
+    本ソフトウェアおよび関連文書ファイル（以下「本ソフトウェア」という。
+    本ソフトウェアおよび関連文書ファイル (以下「本ソフトウェア」といいます) の複製物を入手した者は、本ソフトウェアを無制限に使用することができます。
+    本ソフトウェアの使用、複製、変更、統合、変更、削除を行う権利を含みますが、これらに限定されるものではありません。
+    本ソフトウェアのコピーを使用、コピー、変更、マージ、公開、配布、サブライセンス、および/または販売する権利。
+    本ソフトウェアのコピーを使用、複製、変更、結合、公開、頒布、サブライセンス、および/または販売する権利、および本ソフトウェアを提供された者に許可する権利を含む。
+    また、本ソフトウェアを提供された者は、以下の条件に従い、本ソフトウェアを使用することができます：
 
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
+    上記の著作権表示および本許諾表示は、本ソフトウェアのすべての複製物または相当部分に含まれるものとします。
+    本ソフトウェアは「現状のまま」提供されます。
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE
+    本ソフトウェアは「現状のまま」提供され、明示または黙示を問わず、いかなる種類の保証もありません。
+    本ソフトウェアは「現状のまま」提供されます、本ソフトウェアは「現状のまま」提供されます。
+    いかなる場合においても著作者または著作権所有者は、契約上の行為であるか否かを問わず、いかなる請求、損害賠償またはその他の責任についても責任を負いません。
+    本ソフトウェアを使用する前に、本ソフトウェアを使用する前に、本ソフトウェアを使用する前に、本ソフトウェアを使用する前に、必ず本ソフトウェアの使用許諾を確認してください、
+    本ソフトウェアの使用またはその他の取引に起因または関連して生じた、いかなる請求、損害賠償、またはその他の責任についても、契約、不法行為、またはその他の訴訟において、著作者または著作権所有者は一切責任を負いません。
 
 以上
 
