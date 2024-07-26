@@ -312,14 +312,27 @@ Excel Online で開くとします。
 
 ## 免責事項
 
-#### 無保証
+    Copyright (c) Geek Fujiwara.
+    
+    MIT License
 
-* 本ソリューションは、動作を保証せず、発生した結果について一切の責任を負いません。
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
 
-#### 著作権
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
 
-* 著作権は作成者にありますが、本ソリューションを必要に応じて編集を行うことを許諾しております。
-* 二次配布は許諾しておりません。
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE
 
 以上
 
